@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const router = require.Router();
+const router = express.Router();
 
 const counter = require('./counter');
 
